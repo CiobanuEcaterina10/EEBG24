@@ -1,1 +1,1 @@
-Acest director conține fișierele cu date sumare.
+This directory contains files with summary data.
